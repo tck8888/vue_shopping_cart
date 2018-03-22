@@ -1,0 +1,23 @@
+{
+  "name": "vue_shopping_cart",
+  "version": "1.0.0",
+  "description": "vue test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tck8888/vue_shopping_cart.git"
+  },
+  "author": "tck8888",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tck8888/vue_shopping_cart/issues"
+  },
+  "homepage": "https://github.com/tck8888/vue_shopping_cart#readme",
+  "dependencies": {
+    "vue": "^2.5.16",
+    "vue-resource": "^1.5.0"
+  }
+}
